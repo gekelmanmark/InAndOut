@@ -7,7 +7,7 @@ This is a project that follows a `YouTube tutorial` in order to help understand 
 This application is contained within the directory labeled `InAndOut` and self-hosts the app using a webserver called `Kestrel`. In order to get this application running you would need to:
 1. Open a `command prompt` window.
 2. Navigate to the directory containing the project `.json` file.
-3. Run the command: `dotnet run`. This of course reuires you to have `Visual Studio` installed on your computer.
+3. Run the command: `dotnet run`. This of course requires you to have `Visual Studio` installed on your computer.
 4. Once everything builds, compiles and runs automatically, you should be greeted with a messege saying something like:
     
     `Now listening on: http://localhost:5151`
