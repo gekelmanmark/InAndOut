@@ -1,6 +1,6 @@
 # InAndOut
 
-This is a project that follows a `YouTube tutorial` in order to help understand the basics of `CRUD` operations and database management. The framework used in this project is `.NET using C#`.
+This is a project that follows a [YouTube tutorial](https://www.youtube.com/watch?v=DqD-NJf7-OM&ab_channel=tutorialsEU) in order to help understand the basics of `CRUD` operations and database management. The framework used in this project is `.NET using C#`.
 
 # How to run this application:
 
